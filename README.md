@@ -1,4 +1,4 @@
 # MusicPlayer
-Play music in you IPhone
+Play music on your iPhone
 
 It's my first day in GitHub for upload my first object.
